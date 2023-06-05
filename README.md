@@ -45,6 +45,7 @@ Some special services provided by hospital is given here.
 - Login/Registration with Google Account
 
 #### We use Routing of react router dom and a section is also deployed with protected Route property.
+### Some Additional things than the instructions are done to make the website interactive and to look like real one.
 
 
 
