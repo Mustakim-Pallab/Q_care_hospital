@@ -1,0 +1,82 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');   
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+.navbar{
+    height:80px !important;
+}
+
+.CompanyName{
+
+    font-family: 'Cinzel', serif;
+    font-size: 2em;
+    color:rgb(105, 5, 5) !important;
+
+}
+
+.CompanyName span{
+
+    font-family: 'Cookie', cursive;
+}
+
+.Navigation_options{
+    color:black !important;
+    
+    
+}
+.Navigation_options:hover{
+    border-bottom: 3px solid rgb(6, 3, 56);
+    
+    
+    
+}
+.Name{
+    color:rgb(255, 8, 0) !important;
+    font-weight: bold !important;
+}
+#sign_in_button{
+    color:white !important;
+    background-color:rgb(21, 196, 187);
+    /* background-image: linear-gradient(to right, rgb(10, 2, 58) , rgb(7, 77, 99)); */
+    width: 80px;
+    height: 30px;
+    border-radius: 15px;
+    border:0px !important;
+    
+    
+
+    
+}
+#sign_in_button:hover{
+    
+    /* background-image: linear-gradient(to right, rgb(56, 181, 219), rgb(10, 2, 58)); */
+    background-color:rgb(8, 141, 137);
+}
+.white{
+    background-color:white;
+}
+
+@media only screen and (max-width: 990px){
+
+
+    .CompanyName{
+
+        margin-top: 0px !important;
+    
+    }
+    .Navigation_options{
+        
+        border-bottom: 3px solid rgb(248, 247, 247);
+        
+        
+        
+    }
+    .Navigation_options:hover{
+        border-bottom: 3px solid rgb(6, 3, 56);
+        
+        
+    }
+}

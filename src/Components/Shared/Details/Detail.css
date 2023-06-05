@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Scheherazade+New:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@800&display=swap');
+
+
+.Details{
+    justify-content:center;
+    
+
+}
+.Details-title{
+
+    font-family: 'Scheherazade New', serif !important;
+    overflow-y: hidden;
+    padding: 10px;
+    padding-left: 0;
+    
+
+}

@@ -1,0 +1,96 @@
+[
+    {
+      "name": "Dedicated ICU",
+      "image": "https://assets.hillrom.com/is/image/hillrom/Hero%20Banner%20-%20Solutions%20-%20Desktop%20-%202880%20x%201400_b?$heroBannerFocusAreaDesktop$",
+      "details": "We have dedicated ICUs with all the modern facilities along with central oxygen supply. Our ICUs operated by professional persons who are well trained ",
+      "person": "Dr. Abdur Razzaq",
+      "post": "ICU Incharge",
+      "phone":"+1 (968) 417-3215",
+      "visiting": "10am-12am"
+
+    },
+    {
+      "name": "Joint Care & Wellness Centre",
+      "image": "https://evercarebd.com/wp-content/uploads/2022/02/Picture1-3.jpg",
+      "details": "QCare Joint Care & Wellness Centre is the first & only super specialty Joint Care & Wellness Centre in Bangladesh, dealing with all knee related problems. ",
+      "person": "Dr. M Ali",
+      "post": "Unit Incharge ",
+      "phone":"+1 (968) 417-5640",
+      "visiting": "10am-10pm"
+
+    },
+    
+    {
+      "name": "Specialists and Professional Staffs",
+      "image": "https://previews.123rf.com/images/pitinan/pitinan1811/pitinan181101689/112075617-healthcare-people-group-professional-doctor-working-in-hospital-office-or-clinic-with-other-doctors.jpg",
+      "details": "We have a group of dedicated people who are not only professional and well trained but also specialists in their department. Find the best of Bests ",
+      "person": "Dr. Rebeka sultana",
+      "phone": "+1 (968) 417-2615",
+      "post": "Residential Medical Officer",
+      "visiting": "10am-12pm"
+
+    },
+    {
+      "name": "Fertility Center",
+      "image": "https://www.newhopefertility.com/wp-content/uploads/2022/11/iStock-1401773686.jpg",
+      "details": "Our ferlity center is a milestone of infirtility treatment5 in Bnagladesh. thousands of patients got treatment and became parents that makes us proud.  ",
+      "person": "Dr. Khan Md Rasel",
+      "phone": "+1 (968) 417-2615",
+      "post": "Medical Officer",
+      "visiting": "10am-8pm"
+
+    },
+    {
+      "name": "Dental Unit",
+      "image": "//cdn.shopify.com/s/files/1/0005/7560/2732/articles/Ways_to_Create_Modern_Dental_Clinic_Design.jpg?v=1656420189",
+      "details": "We care every organ of ypur body. Our Dental unit consists of some dedicated oral and maxiofacial surgeons who cares every smile.  ",
+      "person": "Dr. mahmuda Sultana",
+      "phone": "+1 (968) 417-2615",
+      "post": "Medical Officer(Unit Incharge)",
+      "visiting": "10am-12am"
+
+    },
+    {
+      "name": "Research Center",
+      "image": "https://dorayslab.com/blog/wp-content/uploads/2022/01/Pathology-Lab-Management-Software.jpg",
+      "details": "we research, we invent, we change is the motto of our research center. In recent years our innovation in medical sector was enermous. This center our pride ",
+      "person": "Dr. Abdul Hakim Polash",
+      "phone": "+1 (968) 417-2615",
+      "post": "Chief Scientific Officer",
+      "visiting": "Restricted"
+
+    },
+    {
+      "name": "Dermatology Unit",
+      "image": "https://images.squarespace-cdn.com/content/v1/6125beb0ccf0d605c6267241/1630474850115-LGA8U971GXC1MISYJIRB/Skin-Peels-Cosmelan-Aesthetic-Services-Treatment-Gold-Coast-Dermatology-Clinic-SERVICES.jpg",
+      "details": "Our dermatology unit is one of the notorious dermatology centers of Bangladesh. Here we perform plastic surgery, cosmetic surgery, burn care, skin problems and so on ",
+      "person": "Dr. Fahmida Nabi",
+      "phone": "+1 (968) 417-2615",
+      "post": "Assistant Professor(Unit Incharge)",
+      "visiting": "10am-12pm"
+
+    },
+    {
+      "name": "Modern Operation Theater",
+      "image": "https://nsmot.com/wp-content/uploads/2019/05/Modern-modular-operation-theatre-2-5030x2515.jpg",
+      "details": "Our well equiped operation theater has world class facilities and  equipments .We have central oxygen supply, high flow nasal canulla and central generators.  ",
+      "person": "Dr. Golam Kibria Chowdhury",
+      "phone": "+1 (968) 417-2615",
+      "post": "OT Supervisor",
+      "visiting": "Restricted"
+
+    },
+
+    {
+      "name": "Modern Pathology",
+      "image": "https://dorayslab.com/blog/wp-content/uploads/2022/01/Pathology-Lab-Management-Software.jpg",
+      "details": "We have modern facilities in our pathology. We ensure all the reports to be 100% correct. We know, life of a patient sometimes depends upon pathological report  ",
+      "person": "Dr. Abdus Sobhan",
+      "phone": "+1 (968) 417-2615",
+      "post": "Proffessor(Pathology Incharge)",
+      "visiting": "5am-8pm"
+
+    }
+    
+    
+  ]

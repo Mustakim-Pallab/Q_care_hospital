@@ -1,0 +1,31 @@
+.Specialities{
+
+    margin-bottom:0;
+    align-items:center;
+    display:flex;
+    flex-direction: column;
+    background-color:cornsilk;
+    border-radius:17px;
+    /* justify-content: center; */
+}
+.spe-p{
+    font-size:2.6em;
+    font-family:monospace;
+    font-weight:bold;
+}
+.Card{
+    /* max-height: 250px; */
+    border:2px solid burlywood;
+    border-radius: 15px;
+    
+    
+}
+.img{
+    width: 50%;
+    height: 80%;
+    text-align:center !important;
+    
+}
+.Card-body{
+    text-align:left;
+}

@@ -1,0 +1,10 @@
+.Topbar{
+    color:white;
+    background-color:rgb(0, 96, 141);
+    height:40px;
+    font-size: smaller;
+}
+.topbar-hover:hover{ 
+    color: rgb(39, 3, 3);
+}
+

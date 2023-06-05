@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+.body {
+    background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
+    font-family: 'Rubik', sans-serif;
+    background: #C1F7D5;
+    height: 100 !important
+}
+
+.container-fluid {
+    overflow: hidden;
+    background: #10375c;
+    color: #e3e3e3 !important;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+.footer_name{
+    text-align: left !important;
+}
+
+
+.bold-text {
+    color: #C1F7D5 !important
+}
+
+.mt-55 {
+    margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+
+.social {
+    font-size: 21px !important;
+    margin-left: 0px;
+    float: left;
+    
+}
+.text-align{
+    text-align:left;
+}
+
+.link {
+    color: #e3e3e3 !important;
+    text-decoration: none;
+}
+.link:hover {
+    color: rgb(231, 15, 15) !important;
+    text-decoration: none;
+}
+
+
+/* NewsLetter */
+

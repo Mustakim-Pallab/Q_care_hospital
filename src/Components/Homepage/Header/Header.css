@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.header{
+    position: relative;
+    min-height: 92vh;
+    background-image:  url(../../../Images/bannerpic4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.text-1{
+    font-family: 'Playfair Display', serif;
+    font-size: 0.9em !important;
+    font-weight: 400;
+} 
+
+
+.text-2{
+
+    font-size: 2em !important;
+    font-weight: 500;
+}
+
+.banner-dialogue{
+    font-family: 'Raleway', sans-serif;
+    font-size: .9em !important;
+    font-weight: 400;
+    
+}
+
+@media screen  and (max-width:480px){
+    
+    .text-1{
+        
+        font-size: 0.6em !important;
+    } 
+
+
+    .text-2{
+
+        font-size: .9em !important;
+        
+    }
+
+    .banner-dialogue{
+        
+        font-size: .7em !important;
+        
+    }
+}
